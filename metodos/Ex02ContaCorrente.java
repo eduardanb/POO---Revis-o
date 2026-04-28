@@ -1,4 +1,11 @@
-class Ex05ContaCorrente {
+// Exercício 02 - Crie uma classe para representar uma conta corrente que possui um número, um saldo, um status,
+// um status que informa se ela é especial ou não, um limite. Desenvolva métodos para realizar saques
+// (verificando se o cliente pode saques), depositar dinheiro, consultar saldo e verificar se o cliente está usando
+// cheque especial ou não. Desenvolva um programa para testar essa aula.
+
+package metodos;
+
+class Ex02ContaCorrente {
     int numDaConta;
     double saldo;
     boolean statusDaConta;

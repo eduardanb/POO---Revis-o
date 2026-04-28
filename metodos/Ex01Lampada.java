@@ -1,3 +1,7 @@
+// Exercício 01 - Escreva uma classe para representar uma lâmpada. Desenvolva métodos para ligar, desligar a lâmpada.
+
+package metodos;
+
 class Ex01Lampada {
     String marca;
     double preco;
